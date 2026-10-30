@@ -100,7 +100,7 @@ Key Insights:
 
     Geographic Expansion: Emerging markets, particularly India, represent the strongest market share drivers among top global media properties.
 
-6. Business Recommendations
+## 6. Business Recommendations
 
     Adopt "Quality & Replayability" over Pure Volume: Media networks should prioritize evergreen, re-watchable content architectures (similar to the Kids/Music model)
     rather than unsustainable daily publishing schedules.
@@ -109,7 +109,7 @@ Key Insights:
 
     Optimize Channel Naming for Searchability: Digital creators expanding across markets should adopt short, localized, and intent-focused naming frameworks.
 
-7. Next Steps / Future Improvements
+## 7. Next Steps / Future Improvements
 
     Granular Asset Analytics: Integrate video-level metrics (CTR, Average View Duration, Shorts vs. Long-form ratio) to evaluate micro-level performance drivers.
 
